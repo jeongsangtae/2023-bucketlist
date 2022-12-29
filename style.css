@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@400;500;600;700&family=Roboto&display=swap");
+
+* {
+  font-family: "Hahmlet", serif;
+}
+
+.title {
+  color: white;
+  background-color: tomato;
+  border-radius: 8px;
+  font-size: 24px;
+  padding: 4px 14px;
+  text-align: center;
+}
+
+.msg {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bg {
+  width: 360px;
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-grid.png");
+}
+
+.bucket {
+  width: 160px;
+  height: 160px;
+}
+
+.img1 {
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-red.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.img2 {
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-lightred.png");
+  background-size: cover;
+  background-position: center;
+}
